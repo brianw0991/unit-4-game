@@ -1,0 +1,45 @@
+
+#title {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+    color:red;
+}
+
+#coverImage {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black;
+}
+
+#char1 {
+    position: absolute;
+    top: 375px;
+    left: 400px;
+}
+
+#char2 {
+    position: absolute;
+    top: 375px;
+    left: 600px;
+}
+
+#char3 {
+    position: absolute;
+    top: 375px;
+    left:800px;
+}
+
+#char4 {
+    position: absolute;
+    top: 375px;
+    left: 1000px;
+}
